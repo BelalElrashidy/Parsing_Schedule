@@ -1,0 +1,820 @@
+Cell (1, 1): nan
+Cell (1, 2): B22-CS-01
+Cell (1, 3): B22-CS-02
+Cell (1, 4): B22-CS-03
+Cell (1, 5): B22-CS-04
+Cell (1, 6): B22-CS-05
+Cell (1, 7): B22-CS-06
+Cell (1, 8): B22-DSAI-01
+Cell (1, 9): B22-DSAI-02
+Cell (1, 10): B22-DSAI-03
+Cell (1, 11): B22-DSAI-04
+Cell (1, 12): nan
+Cell (1, 13): В21-SD-01
+Cell (1, 14): В21-SD-02
+Cell (1, 15): В21-SD-03
+Cell (1, 16): В21-CS-01
+Cell (1, 17): В21-DS-01
+Cell (1, 18): В21-DS-02
+Cell (1, 19): В21-AI-01
+Cell (1, 20): В21-RO-01
+Cell (1, 21): nan
+Cell (1, 22): B20-SD-01 (29)
+Cell (1, 23): B20-SD-02 (28)
+Cell (1, 24): B20-СS(30)
+Cell (1, 25): B20-AI (30)
+Cell (1, 26): B20-DS (18)
+Cell (1, 27): B20-RO (23)
+Cell (1, 28): nan
+Cell (1, 29): B19-SD-01 (29)
+Cell (1, 30): B19-SD-02 (29)
+Cell (1, 31): B19-CS-01 (24)
+Cell (1, 32): B19-DS-01 (30)
+Cell (1, 33): B19-AI-01 (19)
+Cell (1, 34): B19-RO-01 (14)
+Cell (1, 35): nan
+Cell (1, 36): M22-SE-01(16)
+Cell (1, 37): M22-SE-02(15)
+Cell (1, 38): M22-DS-01 (20)
+Cell (1, 39): M22-RO-01 (17)
+Cell (1, 40): M22-TE-01 (30)
+Cell (1, 41): nan
+Cell (2, 1): MONDAY
+Cell (2, 2): nan
+Cell (2, 3): nan
+Cell (2, 4): nan
+Cell (2, 5): nan
+Cell (2, 6): nan
+Cell (2, 7): nan
+Cell (2, 8): nan
+Cell (2, 9): nan
+Cell (2, 10): nan
+Cell (2, 11): nan
+Cell (2, 12): MONDAY
+Cell (2, 13): nan
+Cell (2, 14): nan
+Cell (2, 15): nan
+Cell (2, 16): nan
+Cell (2, 17): nan
+Cell (2, 18): nan
+Cell (2, 19): nan
+Cell (2, 20): nan
+Cell (2, 21): MONDAY
+Cell (2, 22): nan
+Cell (2, 23): nan
+Cell (2, 24): nan
+Cell (2, 25): nan
+Cell (2, 26): nan
+Cell (2, 27): nan
+Cell (2, 28): MONDAY
+Cell (2, 29): nan
+Cell (2, 30): nan
+Cell (2, 31): nan
+Cell (2, 32): nan
+Cell (2, 33): nan
+Cell (2, 34): nan
+Cell (2, 35): MONDAY
+Cell (2, 36): nan
+Cell (2, 37): nan
+Cell (2, 38): nan
+Cell (2, 39): nan
+Cell (2, 40): nan
+Cell (2, 41): nan
+Cell (3, 1): 09:00-10:30
+Cell (3, 2): Data Structures and Algorithms  (lec)
+Cell (3, 3): nan
+Cell (3, 4): nan
+Cell (3, 5): nan
+Cell (3, 6): nan
+Cell (3, 7): nan
+Cell (3, 8): nan
+Cell (3, 9): nan
+Cell (3, 10): nan
+Cell (3, 11): nan
+Cell (3, 12): 09:20-10:50
+Cell (3, 13): Introduction to Machine Learning (lec)
+Cell (3, 14): nan
+Cell (3, 15): nan
+Cell (3, 16): nan
+Cell (3, 17): nan
+Cell (3, 18): nan
+Cell (3, 19): nan
+Cell (3, 20): nan
+Cell (3, 21): 09:10-10:40
+Cell (3, 22): Information Retrieval (lec)
+Cell (3, 23): nan
+Cell (3, 24): nan
+Cell (3, 25): nan
+Cell (3, 26): nan
+Cell (3, 27): nan
+Cell (3, 28): 09:30-11:00
+Cell (3, 29): Academic Research and Writing Culture
+Cell (3, 30): nan
+Cell (3, 31): Academic Research and Writing Culture
+Cell (3, 32): nan
+Cell (3, 33): Academic Research and Writing Culture
+Cell (3, 34): nan
+Cell (3, 35): 09:00-10:30
+Cell (3, 36): nan
+Cell (3, 37): nan
+Cell (3, 38): Advanced Statistics (lec)
+Cell (3, 39): nan
+Cell (3, 40): nan
+Cell (3, 41): nan
+Cell (4, 1): nan
+Cell (4, 2): Nikolay Kudasov
+Cell (4, 3): nan
+Cell (4, 4): nan
+Cell (4, 5): nan
+Cell (4, 6): nan
+Cell (4, 7): nan
+Cell (4, 8): nan
+Cell (4, 9): nan
+Cell (4, 10): nan
+Cell (4, 11): nan
+Cell (4, 12): nan
+Cell (4, 13): Adil Khan 
+Cell (4, 14): nan
+Cell (4, 15): nan
+Cell (4, 16): nan
+Cell (4, 17): nan
+Cell (4, 18): nan
+Cell (4, 19): nan
+Cell (4, 20): nan
+Cell (4, 21): nan
+Cell (4, 22): Stanislav Protasov
+Cell (4, 23): nan
+Cell (4, 24): nan
+Cell (4, 25): nan
+Cell (4, 26): nan
+Cell (4, 27): nan
+Cell (4, 28): nan
+Cell (4, 29): Georgiy Gelvanovsky,Rabab Marouf, Ruslan Saduov. Oksana Zhirosh
+Cell (4, 30): nan
+Cell (4, 31): Georgiy Gelvanovsky,Rabab Marouf, Ruslan Saduov. Oksana Zhirosh
+Cell (4, 32): nan
+Cell (4, 33): Georgiy Gelvanovsky,Rabab Marouf, Ruslan Saduov. Oksana Zhirosh
+Cell (4, 34): nan
+Cell (4, 35): nan
+Cell (4, 36): nan
+Cell (4, 37): nan
+Cell (4, 38): Nikola Zlatanov
+Cell (4, 39): nan
+Cell (4, 40): nan
+Cell (4, 41): nan
+Cell (5, 1): nan
+Cell (5, 2): 108
+Cell (5, 3): nan
+Cell (5, 4): nan
+Cell (5, 5): nan
+Cell (5, 6): nan
+Cell (5, 7): nan
+Cell (5, 8): nan
+Cell (5, 9): nan
+Cell (5, 10): nan
+Cell (5, 11): nan
+Cell (5, 12): nan
+Cell (5, 13): ONLINE
+Cell (5, 14): nan
+Cell (5, 15): nan
+Cell (5, 16): nan
+Cell (5, 17): nan
+Cell (5, 18): nan
+Cell (5, 19): nan
+Cell (5, 20): nan
+Cell (5, 21): nan
+Cell (5, 22): ONLINE
+Cell (5, 23): nan
+Cell (5, 24): nan
+Cell (5, 25): nan
+Cell (5, 26): nan
+Cell (5, 27): nan
+Cell (5, 28): nan
+Cell (5, 29): 313/314/320/321
+Cell (5, 30): nan
+Cell (5, 31): 313/314/320/321
+Cell (5, 32): nan
+Cell (5, 33): 313/314/320/321
+Cell (5, 34): nan
+Cell (5, 35): nan
+Cell (5, 36): nan
+Cell (5, 37): nan
+Cell (5, 38): 305 (ROOM 101 ON 13/03)
+Cell (5, 39): nan
+Cell (5, 40): nan
+Cell (5, 41): 03) / 108 / 305 (ROOM 101 ON 13e / 313e / 313e / 313e / 314e / 314e / 314e / 320e / 320e / 320e / 321 / 321 / 321 / ONLINE / ONLINE
+Cell (6, 1): 10:40-12:10
+Cell (6, 2): Data Structures and Algorithms (tut)
+Cell (6, 3): nan
+Cell (6, 4): nan
+Cell (6, 5): nan
+Cell (6, 6): nan
+Cell (6, 7): nan
+Cell (6, 8): nan
+Cell (6, 9): nan
+Cell (6, 10): nan
+Cell (6, 11): nan
+Cell (6, 12): 11:00-12:30
+Cell (6, 13): nan
+Cell (6, 14): Introduction to Machine Learning (lab)
+Cell (6, 15): nan
+Cell (6, 16): Introduction to Machine Learning (lab)
+Cell (6, 17): nan
+Cell (6, 18): nan
+Cell (6, 19): Introduction to Machine Learning (lab)
+Cell (6, 20): nan
+Cell (6, 21): 10:50-12:20
+Cell (6, 22): Information Retrieval (lab)
+Cell (6, 23): nan
+Cell (6, 24): Information Retrieval (lab)
+Cell (6, 25): Signals and Systems (lec)
+Cell (6, 26): nan
+Cell (6, 27): nan
+Cell (6, 28): 11:10-12:40
+Cell (6, 29): nan
+Cell (6, 30): Academic Research and Writing Culture
+Cell (6, 31): nan
+Cell (6, 32): Academic Research and Writing Culture
+Cell (6, 33): nan
+Cell (6, 34): Academic Research and Writing Culture
+Cell (6, 35): 10:40-12:10
+Cell (6, 36): Analysis of Sofware Artifacts (lec)
+Cell (6, 37): nan
+Cell (6, 38): Advanced Statistics  (lab)
+Cell (6, 39): nan
+Cell (6, 40): nan
+Cell (6, 41): nan
+Cell (7, 1): nan
+Cell (7, 2): Nikolay Kudasov
+Cell (7, 3): nan
+Cell (7, 4): nan
+Cell (7, 5): nan
+Cell (7, 6): nan
+Cell (7, 7): nan
+Cell (7, 8): nan
+Cell (7, 9): nan
+Cell (7, 10): nan
+Cell (7, 11): nan
+Cell (7, 12): nan
+Cell (7, 13): nan
+Cell (7, 14): Roman Garaev
+Cell (7, 15): nan
+Cell (7, 16): Rustam Lukmanov
+Cell (7, 17): nan
+Cell (7, 18): nan
+Cell (7, 19): Mostafa Hegazy
+Cell (7, 20): nan
+Cell (7, 21): nan
+Cell (7, 22): Awais Ch Muhammad
+Cell (7, 23): nan
+Cell (7, 24): Lionel Randall Kharkrang
+Cell (7, 25): Nikolay Shilov
+Cell (7, 26): nan
+Cell (7, 27): nan
+Cell (7, 28): nan
+Cell (7, 29): nan
+Cell (7, 30): Georgiy Gelvanovsky,Rabab Marouf, Ruslan Saduov. Oksana Zhirosh
+Cell (7, 31): nan
+Cell (7, 32): Georgiy Gelvanovsky,Rabab Marouf, Ruslan Saduov. Oksana Zhirosh
+Cell (7, 33): nan
+Cell (7, 34): Georgiy Gelvanovsky,Rabab Marouf, Ruslan Saduov. Oksana Zhirosh
+Cell (7, 35): nan
+Cell (7, 36): Andrey Sadovykh
+Cell (7, 37): nan
+Cell (7, 38): Zamira Kholmatova
+Cell (7, 39): nan
+Cell (7, 40): nan
+Cell (7, 41): nan
+Cell (8, 1): nan
+Cell (8, 2): 108
+Cell (8, 3): nan
+Cell (8, 4): nan
+Cell (8, 5): nan
+Cell (8, 6): nan
+Cell (8, 7): nan
+Cell (8, 8): nan
+Cell (8, 9): nan
+Cell (8, 10): nan
+Cell (8, 11): nan
+Cell (8, 12): nan
+Cell (8, 13): nan
+Cell (8, 14): 101
+Cell (8, 15): nan
+Cell (8, 16): 303
+Cell (8, 17): nan
+Cell (8, 18): nan
+Cell (8, 19): 106
+Cell (8, 20): nan
+Cell (8, 21): nan
+Cell (8, 22): 301
+Cell (8, 23): nan
+Cell (8, 24): 312
+Cell (8, 25): 300
+Cell (8, 26): nan
+Cell (8, 27): nan
+Cell (8, 28): nan
+Cell (8, 29): nan
+Cell (8, 30): 313/314/320/321
+Cell (8, 31): nan
+Cell (8, 32): 313/314/320/321
+Cell (8, 33): nan
+Cell (8, 34): 313/314/320/321
+Cell (8, 35): nan
+Cell (8, 36): ONLINE
+Cell (8, 37): nan
+Cell (8, 38): 305
+Cell (8, 39): nan
+Cell (8, 40): nan
+Cell (8, 41): 101 / 106 / 108 / 300 / 301 / 303 / 305 / 312 / 313e / 313e / 313e / 314e / 314e / 314e / 320e / 320e / 320e / 321 / 321 / 321 / ONLINE
+Cell (9, 1): 12:40-14:10
+Cell (9, 2): Data Structures and Algorithms (lab)
+Cell (9, 3): nan
+Cell (9, 4): nan
+Cell (9, 5): Data Structures and Algorithms (lab)
+Cell (9, 6): nan
+Cell (9, 7): Mathematical Analysis II (lab)
+Cell (9, 8): Data Structures and Algorithms (lab)
+Cell (9, 9): nan
+Cell (9, 10): Data Structures and Algorithms (lab)
+Cell (9, 11): nan
+Cell (9, 12): 13:00-14:30
+Cell (9, 13): Introduction to Machine Learning (lab)
+Cell (9, 14): nan
+Cell (9, 15): Introduction to Machine Learning (lab)
+Cell (9, 16): nan
+Cell (9, 17): Introduction to Machine Learning (lab)
+Cell (9, 18): nan
+Cell (9, 19): nan
+Cell (9, 20): Theoretical Mechanics (lec)
+Cell (9, 21): 12:50-14:20
+Cell (9, 22): nan
+Cell (9, 23): Information Retrieval (lab)
+Cell (9, 24): nan
+Cell (9, 25): Information Retrieval (lab)
+Cell (9, 26): Signals and Systems (lab)
+Cell (9, 27): Signals and Systems (lab)
+Cell (9, 28): 13:10-14:40
+Cell (9, 29): nan
+Cell (9, 30): nan
+Cell (9, 31): nan
+Cell (9, 32): nan
+Cell (9, 33): nan
+Cell (9, 34): nan
+Cell (9, 35): 12:40-14:10
+Cell (9, 36): Communications (lec)
+Cell (9, 37): nan
+Cell (9, 38): nan
+Cell (9, 39): nan
+Cell (9, 40): nan
+Cell (9, 41): nan
+Cell (10, 1): nan
+Cell (10, 2): Khaled Ismaeel
+Cell (10, 3): nan
+Cell (10, 4): nan
+Cell (10, 5): Alaa Aldin Hajjar
+Cell (10, 6): nan
+Cell (10, 7): Ramil Nasibullin
+Cell (10, 8): Ali Belal Jnadi
+Cell (10, 9): nan
+Cell (10, 10): Ikechi Kalu Ndukwe
+Cell (10, 11): nan
+Cell (10, 12): nan
+Cell (10, 13): Roman Garaev
+Cell (10, 14): nan
+Cell (10, 15): Mostafa Hegazy
+Cell (10, 16): nan
+Cell (10, 17): Yusuf Mesbah
+Cell (10, 18): nan
+Cell (10, 19): nan
+Cell (10, 20): Alexandr Maloletov
+Cell (10, 21): nan
+Cell (10, 22): nan
+Cell (10, 23): Awais Ch Muhammad
+Cell (10, 24): nan
+Cell (10, 25): Lionel Randall Kharkrang
+Cell (10, 26): Nikolay Shilov
+Cell (10, 27): Albert Nasybullin
+Cell (10, 28): nan
+Cell (10, 29): nan
+Cell (10, 30): nan
+Cell (10, 31): nan
+Cell (10, 32): nan
+Cell (10, 33): nan
+Cell (10, 34): nan
+Cell (10, 35): nan
+Cell (10, 36): Sergey Kladko
+Cell (10, 37): nan
+Cell (10, 38): nan
+Cell (10, 39): nan
+Cell (10, 40): nan
+Cell (10, 41): nan
+Cell (11, 1): nan
+Cell (11, 2): 303
+Cell (11, 3): nan
+Cell (11, 4): nan
+Cell (11, 5): 321
+Cell (11, 6): nan
+Cell (11, 7): 320
+Cell (11, 8): 101
+Cell (11, 9): nan
+Cell (11, 10): 314
+Cell (11, 11): nan
+Cell (11, 12): nan
+Cell (11, 13): 313
+Cell (11, 14): nan
+Cell (11, 15): 318
+Cell (11, 16): nan
+Cell (11, 17): 421
+Cell (11, 18): nan
+Cell (11, 19): nan
+Cell (11, 20): 102
+Cell (11, 21): nan
+Cell (11, 22): nan
+Cell (11, 23): 301
+Cell (11, 24): nan
+Cell (11, 25): 312
+Cell (11, 26): 300
+Cell (11, 27): 317
+Cell (11, 28): nan
+Cell (11, 29): nan
+Cell (11, 30): nan
+Cell (11, 31): nan
+Cell (11, 32): nan
+Cell (11, 33): nan
+Cell (11, 34): nan
+Cell (11, 35): nan
+Cell (11, 36):  308 (ONLY ON 27/02)
+Cell (11, 37): nan
+Cell (11, 38): nan
+Cell (11, 39): nan
+Cell (11, 40): nan
+Cell (11, 41): 02) / 101 / 102 / 300 / 301 / 303 / 308 (ONLY ON 27e / 312 / 313 / 314 / 317 / 318 / 320 / 321 / 421
+Cell (12, 1): 14:20-15:50
+Cell (12, 2): nan
+Cell (12, 3): Data Structures and Algorithms (lab)
+Cell (12, 4): Mathematical Analysis II (lab)
+Cell (12, 5): nan
+Cell (12, 6): Data Structures and Algorithms (lab)
+Cell (12, 7): nan
+Cell (12, 8): nan
+Cell (12, 9): Data Structures and Algorithms (lab)
+Cell (12, 10): nan
+Cell (12, 11): Data Structures and Algorithms (lab)
+Cell (12, 12): 14:40-16:10
+Cell (12, 13): nan
+Cell (12, 14): nan
+Cell (12, 15): nan
+Cell (12, 16): nan
+Cell (12, 17): nan
+Cell (12, 18): Introduction to Machine Learning (lab)
+Cell (12, 19): nan
+Cell (12, 20): Theoretical Mechanics (lab)
+Cell (12, 21): 14:30-16:00
+Cell (12, 22): nan
+Cell (12, 23): nan
+Cell (12, 24): nan
+Cell (12, 25): Signals and Systems (lab)
+Cell (12, 26): nan
+Cell (12, 27): nan
+Cell (12, 28): 14:50-16:20
+Cell (12, 29): Theoretical Sports (lec) - Physiology
+Cell (12, 30): nan
+Cell (12, 31): nan
+Cell (12, 32): nan
+Cell (12, 33): nan
+Cell (12, 34): nan
+Cell (12, 35): 14:20-15:50
+Cell (12, 36): Communications (lec)
+Cell (12, 37): nan
+Cell (12, 38): nan
+Cell (12, 39): nan
+Cell (12, 40): nan
+Cell (12, 41): nan
+Cell (13, 1): nan
+Cell (13, 2): nan
+Cell (13, 3): Khaled Ismaeel
+Cell (13, 4): Ramil Nasibullin
+Cell (13, 5): nan
+Cell (13, 6): Alaa Aldin Hajjar
+Cell (13, 7): nan
+Cell (13, 8): nan
+Cell (13, 9): Ali Belal Jnadi
+Cell (13, 10): nan
+Cell (13, 11): Ikechi Kalu Ndukwe
+Cell (13, 12): nan
+Cell (13, 13): nan
+Cell (13, 14): nan
+Cell (13, 15): nan
+Cell (13, 16): nan
+Cell (13, 17): nan
+Cell (13, 18): Yusuf Mesbah
+Cell (13, 19): nan
+Cell (13, 20): Oleg Bulichev
+Cell (13, 21): nan
+Cell (13, 22): nan
+Cell (13, 23): nan
+Cell (13, 24): nan
+Cell (13, 25): Albert Nasybullin
+Cell (13, 26): nan
+Cell (13, 27): nan
+Cell (13, 28): nan
+Cell (13, 29): Andrei Anisimov
+Cell (13, 30): nan
+Cell (13, 31): nan
+Cell (13, 32): nan
+Cell (13, 33): nan
+Cell (13, 34): nan
+Cell (13, 35): nan
+Cell (13, 36): Sergey Kladko
+Cell (13, 37): nan
+Cell (13, 38): nan
+Cell (13, 39): nan
+Cell (13, 40): nan
+Cell (13, 41): nan
+Cell (14, 1): nan
+Cell (14, 2): nan
+Cell (14, 3): 303
+Cell (14, 4): 320
+Cell (14, 5): nan
+Cell (14, 6): 321
+Cell (14, 7): nan
+Cell (14, 8): nan
+Cell (14, 9): 101
+Cell (14, 10): nan
+Cell (14, 11): 314
+Cell (14, 12): nan
+Cell (14, 13): nan
+Cell (14, 14): nan
+Cell (14, 15): nan
+Cell (14, 16): nan
+Cell (14, 17): nan
+Cell (14, 18): 421
+Cell (14, 19): nan
+Cell (14, 20): 102
+Cell (14, 21): nan
+Cell (14, 22): nan
+Cell (14, 23): nan
+Cell (14, 24): nan
+Cell (14, 25): 313
+Cell (14, 26): nan
+Cell (14, 27): nan
+Cell (14, 28): nan
+Cell (14, 29):  105 (ONLY ON 6/03)
+Cell (14, 30): nan
+Cell (14, 31): nan
+Cell (14, 32): nan
+Cell (14, 33): nan
+Cell (14, 34): nan
+Cell (14, 35): nan
+Cell (14, 36):  308 (ONLY ON 27/02)
+Cell (14, 37): nan
+Cell (14, 38): nan
+Cell (14, 39): nan
+Cell (14, 40): nan
+Cell (14, 41): 02) / 03) / 101 / 102 / 105 (ONLY ON 6e / 303 / 308 (ONLY ON 27e / 313 / 314 / 320 / 321 / 421
+Cell (15, 1): 16:00-17:30
+Cell (15, 2): nan
+Cell (15, 3): nan
+Cell (15, 4): Data Structures and Algorithms (lab)
+Cell (15, 5): Analytical Geometry and Linear Algebra II (lab)
+Cell (15, 6): nan
+Cell (15, 7): Data Structures and Algorithms (lab)
+Cell (15, 8): nan
+Cell (15, 9): nan
+Cell (15, 10): nan
+Cell (15, 11): nan
+Cell (15, 12): 16:20-17:50
+Cell (15, 13): nan
+Cell (15, 14): nan
+Cell (15, 15): nan
+Cell (15, 16): nan
+Cell (15, 17): nan
+Cell (15, 18): nan
+Cell (15, 19): nan
+Cell (15, 20): nan
+Cell (15, 21): 16:10-17:40
+Cell (15, 22): nan
+Cell (15, 23): nan
+Cell (15, 24): nan
+Cell (15, 25): nan
+Cell (15, 26): nan
+Cell (15, 27): nan
+Cell (15, 28): 16:30-18:00
+Cell (15, 29): Theoretical Sports (lec) - Physiology
+Cell (15, 30): nan
+Cell (15, 31): nan
+Cell (15, 32): nan
+Cell (15, 33): nan
+Cell (15, 34): nan
+Cell (15, 35): 16:00-17:30
+Cell (15, 36): nan
+Cell (15, 37): nan
+Cell (15, 38): nan
+Cell (15, 39): nan
+Cell (15, 40): nan
+Cell (15, 41): nan
+Cell (16, 1): nan
+Cell (16, 2): nan
+Cell (16, 3): nan
+Cell (16, 4): Khaled Ismaeel
+Cell (16, 5): Ramil Nasibullin
+Cell (16, 6): nan
+Cell (16, 7): Alaa Aldin Hajjar
+Cell (16, 8): nan
+Cell (16, 9): nan
+Cell (16, 10): nan
+Cell (16, 11): nan
+Cell (16, 12): nan
+Cell (16, 13): nan
+Cell (16, 14): nan
+Cell (16, 15): nan
+Cell (16, 16): nan
+Cell (16, 17): nan
+Cell (16, 18): nan
+Cell (16, 19): nan
+Cell (16, 20): nan
+Cell (16, 21): nan
+Cell (16, 22): nan
+Cell (16, 23): nan
+Cell (16, 24): nan
+Cell (16, 25): nan
+Cell (16, 26): nan
+Cell (16, 27): nan
+Cell (16, 28): nan
+Cell (16, 29): Andrei Anisimov
+Cell (16, 30): nan
+Cell (16, 31): nan
+Cell (16, 32): nan
+Cell (16, 33): nan
+Cell (16, 34): nan
+Cell (16, 35): nan
+Cell (16, 36): nan
+Cell (16, 37): nan
+Cell (16, 38): nan
+Cell (16, 39): nan
+Cell (16, 40): nan
+Cell (16, 41): nan
+Cell (17, 1): nan
+Cell (17, 2): nan
+Cell (17, 3): nan
+Cell (17, 4): 303
+Cell (17, 5): 320
+Cell (17, 6): nan
+Cell (17, 7): 321
+Cell (17, 8): nan
+Cell (17, 9): nan
+Cell (17, 10): nan
+Cell (17, 11): nan
+Cell (17, 12): nan
+Cell (17, 13): nan
+Cell (17, 14): nan
+Cell (17, 15): nan
+Cell (17, 16): nan
+Cell (17, 17): nan
+Cell (17, 18): nan
+Cell (17, 19): nan
+Cell (17, 20): nan
+Cell (17, 21): nan
+Cell (17, 22): nan
+Cell (17, 23): nan
+Cell (17, 24): nan
+Cell (17, 25): nan
+Cell (17, 26): nan
+Cell (17, 27): nan
+Cell (17, 28): nan
+Cell (17, 29):  105 (ONLY ON 6/03)
+Cell (17, 30): nan
+Cell (17, 31): nan
+Cell (17, 32): nan
+Cell (17, 33): nan
+Cell (17, 34): nan
+Cell (17, 35): nan
+Cell (17, 36): nan
+Cell (17, 37): nan
+Cell (17, 38): nan
+Cell (17, 39): nan
+Cell (17, 40): nan
+Cell (17, 41): 03) / 105 (ONLY ON 6e / 303 / 320 / 321
+Cell (18, 1): 17:40-19:10
+Cell (18, 2): nan
+Cell (18, 3): nan
+Cell (18, 4): nan
+Cell (18, 5): nan
+Cell (18, 6): nan
+Cell (18, 7): nan
+Cell (18, 8): nan
+Cell (18, 9): nan
+Cell (18, 10): nan
+Cell (18, 11): nan
+Cell (18, 12): 18:00-19:30
+Cell (18, 13): nan
+Cell (18, 14): nan
+Cell (18, 15): nan
+Cell (18, 16): nan
+Cell (18, 17): nan
+Cell (18, 18): nan
+Cell (18, 19): nan
+Cell (18, 20): nan
+Cell (18, 21): 17:50-19:20
+Cell (18, 22): nan
+Cell (18, 23): nan
+Cell (18, 24): nan
+Cell (18, 25): nan
+Cell (18, 26): nan
+Cell (18, 27): nan
+Cell (18, 28): 18:10-19:40
+Cell (18, 29): nan
+Cell (18, 30): nan
+Cell (18, 31): nan
+Cell (18, 32): nan
+Cell (18, 33): nan
+Cell (18, 34): nan
+Cell (18, 35): 17:40-19:10
+Cell (18, 36): nan
+Cell (18, 37): nan
+Cell (18, 38): nan
+Cell (18, 39): nan
+Cell (18, 40): nan
+Cell (18, 41): nan
+Cell (19, 1): nan
+Cell (19, 2): nan
+Cell (19, 3): nan
+Cell (19, 4): nan
+Cell (19, 5): nan
+Cell (19, 6): nan
+Cell (19, 7): nan
+Cell (19, 8): nan
+Cell (19, 9): nan
+Cell (19, 10): nan
+Cell (19, 11): nan
+Cell (19, 12): nan
+Cell (19, 13): nan
+Cell (19, 14): nan
+Cell (19, 15): nan
+Cell (19, 16): nan
+Cell (19, 17): nan
+Cell (19, 18): nan
+Cell (19, 19): nan
+Cell (19, 20): nan
+Cell (19, 21): nan
+Cell (19, 22): nan
+Cell (19, 23): nan
+Cell (19, 24): nan
+Cell (19, 25): nan
+Cell (19, 26): nan
+Cell (19, 27): nan
+Cell (19, 28): nan
+Cell (19, 29): nan
+Cell (19, 30): nan
+Cell (19, 31): nan
+Cell (19, 32): nan
+Cell (19, 33): nan
+Cell (19, 34): nan
+Cell (19, 35): nan
+Cell (19, 36): nan
+Cell (19, 37): nan
+Cell (19, 38): nan
+Cell (19, 39): nan
+Cell (19, 40): nan
+Cell (19, 41): nan
+Cell (20, 1): nan
+Cell (20, 2): nan
+Cell (20, 3): nan
+Cell (20, 4): nan
+Cell (20, 5): nan
+Cell (20, 6): nan
+Cell (20, 7): nan
+Cell (20, 8): nan
+Cell (20, 9): nan
+Cell (20, 10): nan
+Cell (20, 11): nan
+Cell (20, 12): nan
+Cell (20, 13): nan
+Cell (20, 14): nan
+Cell (20, 15): nan
+Cell (20, 16): nan
+Cell (20, 17): nan
+Cell (20, 18): nan
+Cell (20, 19): nan
+Cell (20, 20): nan
+Cell (20, 21): nan
+Cell (20, 22): nan
+Cell (20, 23): nan
+Cell (20, 24): nan
+Cell (20, 25): nan
+Cell (20, 26): nan
+Cell (20, 27): nan
+Cell (20, 28): nan
+Cell (20, 29): nan
+Cell (20, 30): nan
+Cell (20, 31): nan
+Cell (20, 32): nan
+Cell (20, 33): nan
+Cell (20, 34): nan
+Cell (20, 35): nan
+Cell (20, 36): nan
+Cell (20, 37): nan
+Cell (20, 38): nan
+Cell (20, 39): nan
+Cell (20, 40): nan
+Cell (20, 41): nan
