@@ -1,7 +1,6 @@
 import json
 import pandas as pd
 
-
 json_file = 'elective.json'
 excel_file = 'elective.xlsx'
 xls = pd.ExcelFile(excel_file)
