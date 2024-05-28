@@ -1,0 +1,2144 @@
+{
+    "BS - Year 1 ": {
+        "B22-CS-01": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Daniel Elambo Atonge",
+                    "room": 303,
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-02": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Daniel Elambo Atonge",
+                    "room": 303,
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-03": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Marko Pezer",
+                    "room": 321,
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-04": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Marko Pezer",
+                    "room": 321,
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-05": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Fahima Mokhtari",
+                    "room": 300,
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-06": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Fahima Mokhtari",
+                    "room": 300,
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-DSAI-01": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Munir Makhmutov",
+                    "room": 314,
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-DSAI-02": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Munir Makhmutov",
+                    "room": 314,
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-DSAI-03": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Alexey Potyomkin",
+                    "room": 303,
+                    "from": "16:00",
+                    "to": "17:30",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-DSAI-04": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Marko Pezer",
+                    "room": 321,
+                    "from": "16:00",
+                    "to": "17:30",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "": {},
+        "\u041221-SD-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-SD-02": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-SD-03": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-CS-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-DS-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-DS-02": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-AI-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-RO-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "M22-SE-01(16)": {
+            "MONDAY": {},
+            "TUESDAY": {},
+            "WEDNESDAY": {},
+            "THURSDAY": {}
+        },
+        "M22-SE-02(15)": {
+            "MONDAY": {},
+            "TUESDAY": {},
+            "WEDNESDAY": {},
+            "THURSDAY": {}
+        },
+        "M22-DS-01 (20)": {
+            "MONDAY": {},
+            "TUESDAY": {},
+            "WEDNESDAY": {},
+            "THURSDAY": {}
+        },
+        "M22-RO-01 (17)": {
+            "MONDAY": {},
+            "TUESDAY": {},
+            "WEDNESDAY": {},
+            "THURSDAY": {}
+        },
+        "M22-TE-01 (30)": {
+            "MONDAY": {
+                "first": {
+                    "name": "Venture Capital and Growth Hacking",
+                    "lecturer": "Sinan Ibrahim",
+                    "room": "421 (STARTS ON 19/06)",
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                },
+                "second": {
+                    "name": "Venture Capital and Growth Hacking",
+                    "lecturer": "Sinan Ibrahim",
+                    "room": "421 (STARTS ON 19/06)",
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {},
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Venture Capital and Growth Hacking",
+                    "lecturer": "Sinan Ibrahim",
+                    "room": "300 (ONLY ON 12/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lab"
+                },
+                "second": {
+                    "name": "Venture Capital and Growth Hacking",
+                    "lecturer": "Sinan Ibrahim",
+                    "room": "300 (ONLY ON 12/07)",
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "THURSDAY": {}
+        }
+    },
+    "BS - Year 2": {
+        "B22-CS-01": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Daniel Elambo Atonge",
+                    "room": 303,
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-02": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Daniel Elambo Atonge",
+                    "room": 303,
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-03": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Marko Pezer",
+                    "room": 321,
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-04": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Marko Pezer",
+                    "room": 321,
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-05": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Fahima Mokhtari",
+                    "room": 300,
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-CS-06": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Fahima Mokhtari",
+                    "room": 300,
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-DSAI-01": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Munir Makhmutov",
+                    "room": 314,
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-DSAI-02": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Munir Makhmutov",
+                    "room": 314,
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-DSAI-03": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Alexey Potyomkin",
+                    "room": 303,
+                    "from": "16:00",
+                    "to": "17:30",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "B22-DSAI-04": {
+            "MONDAY": {
+                "first": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "lec"
+                },
+                "second": {
+                    "name": "Software Project  ",
+                    "lecturer": "Nursultan Askarbekuly",
+                    "room": 108,
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "tut"
+                },
+                "third": {
+                    "name": "Software Project ",
+                    "lecturer": "Marko Pezer",
+                    "room": 321,
+                    "from": "16:00",
+                    "to": "17:30",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {
+                "first": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 20/06,27/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 21/06,28/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                },
+                "second": {
+                    "name": "Theoretical sports -Mental Health",
+                    "lecturer": "Eleonora Ilina",
+                    "room": "108 (ONLY ON 22/06)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            }
+        },
+        "": {},
+        "\u041221-SD-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-SD-02": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-SD-03": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-CS-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-DS-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-DS-02": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-AI-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "\u041221-RO-01": {
+            "MONDAY": {},
+            "TUESDAY": {
+                "first": {
+                    "name": "Capstone Project ",
+                    "lecturer": "Rustam Lukmanov",
+                    "room": "107( room 105 on 20/06-18/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lec"
+                }
+            },
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            },
+            "THURSDAY": {
+                "first": {
+                    "name": "Elective courses on Physical Education",
+                    "lecturer": "",
+                    "room": "",
+                    "from": "09:00",
+                    "to": "10:30",
+                    "type": "Sports"
+                }
+            }
+        },
+        "M22-SE-01(16)": {
+            "MONDAY": {},
+            "TUESDAY": {},
+            "WEDNESDAY": {},
+            "THURSDAY": {}
+        },
+        "M22-SE-02(15)": {
+            "MONDAY": {},
+            "TUESDAY": {},
+            "WEDNESDAY": {},
+            "THURSDAY": {}
+        },
+        "M22-DS-01 (20)": {
+            "MONDAY": {},
+            "TUESDAY": {},
+            "WEDNESDAY": {},
+            "THURSDAY": {}
+        },
+        "M22-RO-01 (17)": {
+            "MONDAY": {},
+            "TUESDAY": {},
+            "WEDNESDAY": {},
+            "THURSDAY": {}
+        },
+        "M22-TE-01 (30)": {
+            "MONDAY": {
+                "first": {
+                    "name": "Venture Capital and Growth Hacking",
+                    "lecturer": "Sinan Ibrahim",
+                    "room": "421 (STARTS ON 19/06)",
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                },
+                "second": {
+                    "name": "Venture Capital and Growth Hacking",
+                    "lecturer": "Sinan Ibrahim",
+                    "room": "421 (STARTS ON 19/06)",
+                    "from": "14:20",
+                    "to": "15:50",
+                    "type": "lab"
+                }
+            },
+            "TUESDAY": {},
+            "WEDNESDAY": {
+                "first": {
+                    "name": "Venture Capital and Growth Hacking",
+                    "lecturer": "Sinan Ibrahim",
+                    "room": "300 (ONLY ON 12/07)",
+                    "from": "10:40",
+                    "to": "12:10",
+                    "type": "lab"
+                },
+                "second": {
+                    "name": "Venture Capital and Growth Hacking",
+                    "lecturer": "Sinan Ibrahim",
+                    "room": "300 (ONLY ON 12/07)",
+                    "from": "12:40",
+                    "to": "14:10",
+                    "type": "lab"
+                }
+            },
+            "THURSDAY": {}
+        }
+    }
+}

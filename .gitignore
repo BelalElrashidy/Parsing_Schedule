@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+env/
+lib/
+Scripts/

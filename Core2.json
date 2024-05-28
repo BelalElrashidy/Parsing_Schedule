@@ -1,25 +1,4 @@
-
 [
-    {
-        "B22-CS-01":{
-            "Monday":{
-                "first":{
-                    "name": "",
-                    "room": "",
-                    "lecturer": "",
-                    "time":"",
-                    "type":""
-                },
-                "second":{
-                    
-                }
-            },
-            "tuesday":{
-
-            }
-            }
-        }
-    },
     " _ B22-CS-01",
     "09:00-10:30 _ Software Project  (lec)",
     "09:00-10:30 _ Nursultan Askarbekuly",
